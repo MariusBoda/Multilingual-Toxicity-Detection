@@ -14,8 +14,8 @@ The task of this project is **Multilingual Toxicity Detection**, where the goal 
 - **OS**: Ubuntu 22.04.5 LTS (Jammy Jellyfish)
 - **CPU**: Intel Core i5-12600K (10-core, Alder Lake)
 - **GPU**: NVIDIA GeForce RTX 3080 (Driver: 560.35.05)
-- **RAM**: 32GB (Used: 4.8GB, 15.5%)
-- **Storage**: 1TB NVMe SSD (Used: 137.56GB, 14.4%)
+- **RAM**: 32GB 
+- **Storage**: 1TB NVMe SSD 
 - **Network**: Intel Ethernet (1Gbps, active) + Intel Bluetooth
 
 
