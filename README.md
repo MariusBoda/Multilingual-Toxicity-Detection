@@ -17,8 +17,5 @@ The task of this project is **Multilingual Toxicity Detection**, where the goal 
 - **RAM**: 32GB (Used: 4.8GB, 15.5%)
 - **Storage**: 1TB NVMe SSD (Used: 137.56GB, 14.4%)
 - **Network**: Intel Ethernet (1Gbps, active) + Intel Bluetooth
-- **Audio**: Intel + NVIDIA HD Audio
-- **Swap**: 4GB (Used: 145.6MB)
-- **Temperatures**: CPU: 56°C, GPU: 71°C
-- **Uptime**: 11 days, 5 hours
-- **Shell**: Zsh 5.8.1
+
+
