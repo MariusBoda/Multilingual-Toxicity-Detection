@@ -11,6 +11,8 @@ The task of this project is **Multilingual Toxicity Detection**, where the goal 
 
 ## System Summary
 
+Training was done using an NVIDIA RTX 3080 on Aalto servers. 
+
 - **OS**: Ubuntu 22.04.5 LTS (Jammy Jellyfish)
 - **CPU**: Intel Core i5-12600K (10-core, Alder Lake)
 - **GPU**: NVIDIA GeForce RTX 3080 (Driver: 560.35.05)
