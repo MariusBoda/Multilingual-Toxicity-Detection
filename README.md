@@ -13,7 +13,9 @@ Therefore, the main goal of the project will be then:
 
 • Choose, apply, and compare tokenization and embedding methods that effectively
 generalize to English, German, and Finnish.
+
 • Train and evaluate both custom and pretrained models for toxicity classification, and
 compare their effectiveness.
+
 • Explore additional techniques to enhance classification performance for the competi-
 tion.
