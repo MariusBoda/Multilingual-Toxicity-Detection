@@ -19,3 +19,16 @@ compare their effectiveness.
 
 • Explore additional techniques to enhance classification performance for the competi-
 tion.
+
+System Summary
+	•	OS: Ubuntu 22.04.5 LTS (Jammy Jellyfish)
+	•	CPU: Intel Core i5-12600K (10-core, Alder Lake)
+	•	GPU: NVIDIA GeForce RTX 3080 (Driver: 560.35.05)
+	•	RAM: 32GB (Used: 4.8GB, 15.5%)
+	•	Storage: 1TB NVMe SSD (Used: 137.56GB, 14.4%)
+	•	Network: Intel Ethernet (1Gbps, active) + Intel Bluetooth
+	•	Audio: Intel + NVIDIA HD Audio
+	•	Swap: 4GB (Used: 145.6MB)
+	•	Temperatures: CPU 56°C, GPU 71°C
+	•	Uptime: 11 days, 5 hours
+	•	Shell: Zsh 5.8.1
